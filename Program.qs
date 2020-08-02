@@ -1,4 +1,4 @@
-﻿namespace Quantum.Quantum_Password_generator
+﻿namespace Quantum.Quantum_Number_generator
 {
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
